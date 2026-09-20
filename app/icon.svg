@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Retro Pixel Art Icon -->
+  <rect width="32" height="32" rx="6" fill="#090d16"/>
+  <rect x="10" y="4" width="12" height="4" fill="#78350f"/>
+  <rect x="10" y="24" width="12" height="4" fill="#78350f"/>
+  <rect x="4" y="10" width="4" height="12" fill="#78350f"/>
+  <rect x="24" y="10" width="4" height="12" fill="#78350f"/>
+  <rect x="6" y="6" width="6" height="4" fill="#78350f"/>
+  <rect x="20" y="6" width="6" height="4" fill="#78350f"/>
+  <rect x="6" y="22" width="6" height="4" fill="#78350f"/>
+  <rect x="20" y="22" width="6" height="4" fill="#78350f"/>
+
+  <!-- Golden Core -->
+  <rect x="8" y="8" width="16" height="16" fill="#facc15"/>
+  <rect x="10" y="6" width="12" height="20" fill="#facc15"/>
+  <rect x="6" y="10" width="20" height="12" fill="#facc15"/>
+
+  <!-- Highlights -->
+  <rect x="10" y="8" width="6" height="4" fill="#fef08a"/>
+  <rect x="8" y="10" width="4" height="6" fill="#fef08a"/>
+
+  <!-- Inner Letter H for Hadiyan -->
+  <rect x="12" y="11" width="2" height="10" fill="#78350f"/>
+  <rect x="18" y="11" width="2" height="10" fill="#78350f"/>
+  <rect x="14" y="15" width="4" height="2" fill="#78350f"/>
+</svg>
